@@ -70,7 +70,7 @@ Product Designer with **4+ years** of experience taking commercial and technical
 - Designed, co-developed and delivered an end-to-end new desktop customer-ordering tool.
 - Led redesign of the internal hour-tracking system, cutting daily task-completion time by **30%** for **500+ employees**.
 - Redesigned procurement data dashboards for sourcing specialists, simplifying equipment ordering through qualitative user research.
-- Helped maintain a **design system of 500+ components**, keeping products consistent across platforms.
+- Helped maintain a design system.
 - Partnered with business analysts, developers and project managers, and co-designed the company's internal employee website.
 
 ### Event Coordinator & PR Specialist | BEST AGH Krakow
