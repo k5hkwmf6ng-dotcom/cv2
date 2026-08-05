@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **4+ years** of experience taking commercial and technical products end-to-end, driving a human-centered process from ambiguous problem to shipped web, desktop and HMI interfaces. My mission is to bring clarity to complex systems and make people's work easier — turning hard problems into simple, elegant solutions and sweating the small details, with an eye on product strategy and the technical side of what I design. Now focused on developing my skills further with data-dense dashboards and ambiguous problems.
+Product Designer with **4+ years** of experience taking commercial and technical products end-to-end, driving a human-centered process from ambiguous problem to shipped products. My mission is to bring clarity to complex systems and make people's work easier by turning hard problems into simple, elegant solutions. Sweating the small details, with an eye on product strategy and the technical side of what I design.
 
 ---
 
