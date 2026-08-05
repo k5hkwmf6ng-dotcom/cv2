@@ -56,11 +56,11 @@ Product Designer with **4+ years** of experience taking commercial and technical
 
 *Jan 2023 – Dec 2025 · Copenhagen*
 
-- Leading end-to-end UX design and product strategy for new vessel monitoring interfaces (web, desktop and HMI), translating complex technical constraints and requirements into intuitive and accessible systems that build user trust under high pressure. Delivering to **13 000+ ships** globally, supporting **30k+ daily active users**.
-- Solving ambiguous and complex problems, and validating product concepts by facilitating co-creation workshops, user interviews, usability testing sessions and design reviews to reduce development uncertainty.
+- Leading and shipping end-to-end UX design and product strategy for new vessel monitoring interfaces (web, desktop and HMI), translating complex technical constraints and requirements into intuitive and accessible systems that build user trust under high pressure. Delivering to **13 000+ ships** globally, supporting **30k+ daily active users**.
+- Solving ambiguous and complex problems, and validating product concepts by facilitating iterative co-creation workshops, user interviews, usability testing sessions and design reviews to reduce development uncertainty.
 - Transforming high-volume data into high-impact dashboards and monitoring panels, handling **70+ active data points** per single page and reducing time-to-task execution by **70%**.
 - Architected user-centric (HCI) workflow improvements and design systems across the legacy interfaces, leading to increased engineer productivity and scoping down long manuals.
-- Collaborating cross-functionally with product owners, engineers and developers from different countries to define product strategy, reduce cognitive load and measurably lower time-to-critical decision.
+- Collaborating cross-functionally with product owners, engineers and developers from different countries to define customer needs and product strategy, reduce cognitive load and measurably lower time-to-critical decision.
 - Designed end-to-end novel design patterns for vessel navigation while maintaining brand identity.
 
 ### UX/UI Designer | Cytiva
@@ -70,6 +70,7 @@ Product Designer with **4+ years** of experience taking commercial and technical
 - Designed, co-developed and delivered an end-to-end new desktop customer-ordering tool.
 - Led redesign of the internal hour-tracking system, cutting daily task-completion time by **30%** for **500+ employees**.
 - Redesigned procurement data dashboards for sourcing specialists, simplifying equipment ordering through qualitative user research.
+- Helped maintain a **design system of 500+ components**, keeping products consistent across platforms.
 - Partnered with business analysts, developers and project managers, and co-designed the company's internal employee website.
 
 ### Event Coordinator & PR Specialist | BEST AGH Krakow
