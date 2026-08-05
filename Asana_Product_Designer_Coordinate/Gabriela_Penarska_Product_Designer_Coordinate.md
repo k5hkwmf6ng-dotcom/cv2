@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **4+ years** of experience taking commercial and technical products end-to-end, driving a human-centered process from ambiguous problem to shipped products. My mission is to bring clarity to complex systems and make people's work easier by turning hard problems into simple, elegant solutions. Sweating the small details, with an eye on product strategy and the technical side of what I design.
+Product Designer with **4+ years** of experience taking commercial and technical products end-to-end, driving a human-centered process from ambiguous problem to shipped products. My mission is to bring clarity to complex systems and make people's work easier by turning hard problems into simple, elegant solutions. I pay close attention to detail, with an eye on product strategy and the technical side of what I design.
 
 ---
 
@@ -73,13 +73,6 @@ Product Designer with **4+ years** of experience taking commercial and technical
 - Helped maintain a design system.
 - Partnered with business analysts, developers and project managers, and co-designed the company's internal employee website.
 
-### Event Coordinator & PR Specialist | BEST AGH Krakow
-
-*Mar 2018 – May 2020 · Krakow*
-
-- Coordinated the design team for a Europe-wide conference of **400+ attendees**.
-- Led the marketing strategy for local recruitment, **increasing applicants by 15%**.
-
 ---
 
 ## Education
@@ -94,7 +87,9 @@ Human-centered design, data visualization, accessibility, interaction design, ML
 
 *Feb 2021 – Aug 2022*
 
-Software engineering, HCI, front-end development. Member of BEST AGH Krakow. Thesis: ticket platform redesign.
+Software engineering, HCI, front-end development. Thesis: ticket platform redesign.
+
+Member of BEST AGH Krakow — coordinated the design team for a Europe-wide conference of **400+ attendees** and grew local recruitment applicants by **15%**.
 
 ### Exchange student | University of Tokyo · NOVA University of Lisbon
 
