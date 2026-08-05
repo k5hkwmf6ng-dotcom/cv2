@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **4+ years** of experience taking commercial and technical products end-to-end, driving a human-centered process from ambiguous problem to shipped web and HMI interfaces. I like turning complex problems into simple, elegant solutions and sweating the small details, always with an eye on product strategy and the technical side of what I design. Now focused on developing my skills further with complex, data-dense dashboards, and excited to keep working on ambiguous, complex problems.
+Product Designer with **4+ years** of experience taking commercial and technical products end-to-end, driving a human-centered process from ambiguous problem to shipped web, desktop and HMI interfaces. I like turning complex problems into simple, elegant solutions and sweating the small details, always with an eye on product strategy and the technical side of what I design. Now focused on developing my skills further with complex, data-dense dashboards, and excited to keep working on ambiguous, complex problems.
 
 ---
 
@@ -56,7 +56,7 @@ Product Designer with **4+ years** of experience taking commercial and technical
 
 *Jan 2023 – Dec 2025 · Copenhagen*
 
-- Leading end-to-end UX design and product strategy for new vessel monitoring interfaces (web and HMI), translating complex technical constraints and requirements into intuitive and accessible systems that build user trust under high pressure. Delivering to **13 000+ ships** globally, supporting **30k+ daily active users**.
+- Leading end-to-end UX design and product strategy for new vessel monitoring interfaces (web, desktop and HMI), translating complex technical constraints and requirements into intuitive and accessible systems that build user trust under high pressure. Delivering to **13 000+ ships** globally, supporting **30k+ daily active users**.
 - Solving ambiguous and complex problems, and validating product concepts by facilitating co-creation workshops, user interviews, usability testing sessions and design reviews to reduce development uncertainty.
 - Transforming high-volume data into high-impact dashboards, handling **70+ active data points** per single page and reducing time-to-task execution by **70%**.
 - Architected user-centric (HCI) workflow improvements and design systems across the legacy interfaces, leading to increased engineer productivity and scoping down long manuals.
@@ -67,7 +67,7 @@ Product Designer with **4+ years** of experience taking commercial and technical
 
 *May 2021 – Jan 2023 · Krakow*
 
-- Designed, co-developed and delivered an end-to-end new customer-ordering tool.
+- Designed, co-developed and delivered an end-to-end new desktop customer-ordering tool.
 - Led redesign of the internal hour-tracking system, cutting daily task-completion time by **30%** for **+500 employees**.
 - Redesigned procurement data dashboards for sourcing specialists, simplifying equipment ordering through qualitative user research.
 - Maintained a **design system of 500+ components**, reducing design-to-development handoff time and keeping products consistent across platforms.
