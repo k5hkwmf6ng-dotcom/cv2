@@ -19,6 +19,7 @@ Product Designer with **4+ years** of experience taking commercial and technical
 
 ### Design
 
+- Human-centered design
 - End-to-end product design
 - Interaction & UI design
 - Prototyping
