@@ -89,7 +89,7 @@ Human-centered design, data visualization, accessibility, interaction design, ML
 
 Software engineering, HCI, front-end development. Thesis: ticket platform redesign.
 
-Member of BEST AGH Krakow — coordinated the design team for a Europe-wide conference of **400+ attendees** and grew local recruitment applicants by **15%**.
+Member of BEST AGH Krakow. Coordinated the design team for a Europe-wide conference of **400+ attendees** and grew local recruitment applicants by **15%**.
 
 ### Exchange student | University of Tokyo · NOVA University of Lisbon
 
