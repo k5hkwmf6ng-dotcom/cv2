@@ -11,7 +11,7 @@
     --body:   #3A4149;
     --muted:  #6F7782;   /* Asana secondary text */
 
-    --measure: 432pt;    /* single-column reading width */
+    --measure: 452pt;    /* centred single-column sheet */
   }
 
   @page { size: A4; margin: 0; }
@@ -30,9 +30,16 @@
     width: 595.28pt;
     min-height: 841.89pt;
     box-sizing: border-box;
-    padding: 28pt 37pt 20pt 36pt;   /* same margins as the CV */
+    padding: 62pt 36pt 24pt;
     margin: 0 auto;
     background: #fff;
+  }
+
+  /* everything lives in one centred column, so the page breathes
+     evenly on both sides instead of trailing off to the right */
+  .sheet{
+    max-width: var(--measure);
+    margin: 0 auto;
   }
 
   /* ================= HEADER — same type scale as the CV ================= */
@@ -51,19 +58,31 @@
     line-height: 1.1;
     margin: 4.5pt 0 0;
   }
-  .contacts{
-    margin: 7.2pt 0 0;
+  .contacts{                       /* stacked, as on the CV */
+    margin: 9pt 0 0;
     font-size: 8.5pt;
     line-height: 1.42;
     color: var(--body);
   }
   .contacts a{ color: inherit; text-decoration: none; }
-  .contacts .sep{ color: var(--coral); }
+  .contacts div{ white-space: nowrap; }
+
+  /* ================= DATE + RECIPIENT ================= */
+  .date{
+    margin-top: 24pt;
+    font-size: 8.5pt;
+    color: var(--muted);
+  }
+  .recipient{
+    margin-top: 13pt;
+    font-size: 9pt;
+    line-height: 1.42;
+  }
+  .recipient .to{ font-weight: 700; color: var(--ink); }
 
   /* ================= LETTER ================= */
   .letter{
-    max-width: var(--measure);
-    margin-top: 32pt;
+    margin-top: 22pt;
     font-size: 9pt;
     line-height: 1.48;
     color: var(--body);
@@ -90,18 +109,25 @@
 </head>
 <body>
 <div class="page">
+ <div class="sheet">
 
   <header>
     <h1 class="name">Gabriela Penarska</h1>
     <div class="role">Product Designer</div>
     <div class="contacts">
-      <a href="mailto:gabriela.penarska@gmail.com">gabriela.penarska@gmail.com</a>
-      <span class="sep">·</span>
-      <a href="https://gabrielapenarska.framer.website">gabrielapenarska.framer.website</a>
-      <span class="sep">·</span>
-      <a href="https://linkedin.com/in/gabriela-penarska">linkedin.com/in/gabriela-penarska</a>
+      <div><a href="mailto:gabriela.penarska@gmail.com">gabriela.penarska@gmail.com</a></div>
+      <div><a href="https://gabrielapenarska.framer.website">gabrielapenarska.framer.website</a></div>
+      <div><a href="https://linkedin.com/in/gabriela-penarska">linkedin.com/in/gabriela-penarska</a></div>
     </div>
   </header>
+
+  <div class="date">11 August 2026</div>
+
+  <div class="recipient">
+    <div class="to">Asana Design Team</div>
+    <div>Product Design — Coordinate</div>
+    <div>Warsaw, Poland</div>
+  </div>
 
   <div class="letter">
 
@@ -122,7 +148,7 @@
     redesign that cut daily task time for 500+ employees. Consistent, well-crafted systems are how I
     keep quality high as work scales.</p>
 
-    <p>What excites me most is a question where should a system act on its own, and where does the
+    <p>What excites me most is a question: where should a system act on its own, and where does the
     person stay in control? I co-designed an AI storytelling system for children, letting the child
     set the direction at each turn while the model generates within guardrails. During my master's in
     Human-Centered AI, I researched and designed a mobile reading app for low-vision users, working
@@ -140,6 +166,7 @@
     <p class="signoff">Warmly,<span class="sig">Gabriela Penarska</span></p>
 
   </div>
+ </div>
 </div>
 </body>
 </html>
