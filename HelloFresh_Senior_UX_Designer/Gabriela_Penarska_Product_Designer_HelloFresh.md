@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **5 years** of experience taking consumer and enterprise products end-to-end, from ambiguous problem to shipped experience with business impact. I own the full arc — discovery, interaction and UI craft, and the hand-off into code — with a human-centered approach and collaboration at its heart. AI is an active part of that workflow, from insight synthesis to rapid prototyping. I hold a high bar for detail and product strategy.
+Product Designer with **5 years** of experience taking consumer and enterprise products end-to-end, from ambiguous problem to shipped experience with business impact. I own the full arc, from discovery through interaction and UI craft to the hand-off into code, with a human-centered approach and collaboration at its heart. AI is an active part of that workflow, from insight synthesis to rapid prototyping. I hold a high bar for detail and product strategy.
 
 ---
 
@@ -23,6 +23,7 @@ Product Designer with **5 years** of experience taking consumer and enterprise p
 - Interaction design
 - UI design
 - Visual design
+- Typography
 - Prototyping
 - Human-centered design
 - Design systems
@@ -70,7 +71,7 @@ Product Designer with **5 years** of experience taking consumer and enterprise p
 - Led and shipped end-to-end UX design and product strategy for new vessel monitoring interfaces (web, desktop and HMI), translating complex technical constraints and requirements into intuitive and accessible systems that build user trust under high pressure. Delivered to **13 000+ ships** globally, supporting **30k+ daily active users**.
 - Cut time-to-task execution by **70%** by holding a high craft bar on hierarchy, layout and interaction detail, transforming high-volume data into high-impact dashboards and monitoring panels handling **70+ active data points** per single page.
 - Identified product opportunities and reduced development uncertainty by solving ambiguous problems early: led discovery interviews and usability testing across enterprise and consumer products, and facilitated iterative co-creation workshops and design reviews that aligned stakeholders on problem framing and solution direction.
-- Won repeat business — a customer ordered a second interface after a successful release — by pushing for the right end-to-end patterns for vessel navigation rather than the convenient ones, holding the brand identity, and presenting the work directly to major customers.
+- Won repeat business, a customer ordering a second interface after a successful release, by pushing for the right end-to-end patterns for vessel navigation, holding the brand identity and presenting the work directly to major customers.
 - Lowered time-to-critical decision and cognitive load by collaborating cross-functionally with product owners, engineers and developers from different countries to define customer needs and product strategy.
 - Increased engineer productivity and scoped down long manuals by architecting user-centric (HCI) workflow improvements and design systems across the legacy interfaces.
 

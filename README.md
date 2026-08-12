@@ -21,7 +21,7 @@ accent colour — see below.
 
 | Folder | Posting | Accent |
 |---|---|---|
-| `HelloFresh_Senior_UX_Designer/` | HelloFresh — Senior UX Designer, Consumer UX (Warsaw) | `#79A219` (HelloFresh green at 3.0:1) |
+| `HelloFresh_Senior_UX_Designer/` | HelloFresh — Senior UX Designer, Consumer UX (Warsaw) | `#F06A6A` (coral retained) |
 
 Each application folder holds its own `_Job_Posting.md` with the extracted priorities,
 the tailoring decisions, and the open questions specific to that posting.
