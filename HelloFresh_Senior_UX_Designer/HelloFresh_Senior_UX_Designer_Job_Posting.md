@@ -43,7 +43,25 @@ Experience share baseline 683.7 · left column bottom 44.0 · all ten bolded met
    carries no current base or language line.
 3. **Title** stays "Product Designer" rather than mirroring the posting's "Senior UX Designer".
 
-## Not produced
+## Cover letter
 
-`Cover_Letter_source.md` and `Cover_Letter_template.html` were not supplied with this
-session's files, so no cover letter was built.
+`Gabriela_Penarska_Cover_Letter_HelloFresh.{md,html,pdf}`, built from
+`Cover_Letter_source.md` on the same design tokens as the CV. One page, coral accent,
+no em dashes, no motion claim, and no leftover Asana or Coordinate references.
+
+What changed from the Asana letter:
+
+- Opening reframed onto the Consumer UX scope named in the posting: discovery,
+  personalization, shopping, subscription management.
+- Nacos paragraph gained the craft-and-agency evidence the posting asks for: the **70%**
+  time-to-task cut on pages carrying **70+** live data points, and the customer who came
+  back for a second interface.
+- The human-in-the-loop paragraph now frames the agency question as the one sitting
+  underneath any *personalized* product, and the AI-tools sentence names what the posting
+  names: insight synthesis, same-day prototyping, and closing the design-to-code gap
+  (Claude Code added alongside Figma Make and Claude Design).
+- New paragraph opening on the **DTU Green Challenge** food-waste app, the strongest
+  domain tie to HelloFresh in the whole application.
+- The low-vision reading app and the AI storytelling system are retained from the source
+  letter. Neither appears on the CV, so they are the letter's own evidence.
+- Date updated to 12 August 2026 (the README flagged the old hardcoded date).

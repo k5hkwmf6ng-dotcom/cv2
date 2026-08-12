@@ -9,11 +9,11 @@ for a new job posting. Hand this whole folder to a fresh session.
 |---|---|
 | `CV_source.md` | **Source of truth** for CV content. Edit this first. |
 | `CV_template.html` | The layout. Must be kept in exact sync with the `.md`. |
-| `Cover_Letter_source.md` | Cover letter text. **Not present in this repo yet.** |
-| `Cover_Letter_template.html` | Single-column letter layout, same design tokens as the CV. **Not present in this repo yet.** |
+| `Cover_Letter_source.md` | Cover letter text. |
+| `Cover_Letter_template.html` | Single-column letter layout, same design tokens as the CV. |
 | `README.md` | This file. |
 
-`CV_template.html` carries the **Asana** palette and the ordering tailored to the
+Both HTML templates carry the **Asana** palette and the ordering tailored to the
 Asana *Product Designer, Coordinate* posting. Re-order for the new posting and swap the
 accent colour — see below.
 
