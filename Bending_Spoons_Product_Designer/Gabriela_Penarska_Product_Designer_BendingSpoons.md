@@ -85,7 +85,7 @@ Product Designer with **5 years** of experience owning products end-to-end, from
 
 *Aug 2022 – Mar 2025*
 
-Human-centered design, interaction design, data visualization, accessibility, ML foundations. Thesis: a dashboard using data from a wearable button to improve treatment for patients with mental health disorders.
+GPA **10.56/12**. Human-centered design, interaction design, data visualization, accessibility, ML foundations. Thesis: a dashboard using data from a wearable button to improve treatment for patients with mental health disorders.
 
 ### MEng Applied Computer Science | AGH University of Science and Technology
 

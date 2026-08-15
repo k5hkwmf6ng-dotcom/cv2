@@ -43,7 +43,9 @@ to 2** and **22 functions into 10**, the Green Challenge **8 weeks**, the Langua
    Profile paragraph, and section emphasis.
 3. **Preserve every bolded metric.** Currently: **5 years**, **13 000+ ships**,
    **30k+ daily active users**, **70%**, **70+ active data points**, **30%**,
-   **500+ employees**, **1000+ students**, **400+ attendees**, **15%**.
+   **500+ employees**, **1000+ students**, **400+ attendees**, **15%**, and the
+   DTU **GPA 10.56/12** (confirmed by the candidate; written with a decimal point
+   in English documents).
    Never drop one to make the page fit — tighten spacing instead.
 4. **Bullets follow the outcome formula:** *accomplished [X] as measured by [Y], by
    doing [Z]*. Lead with the result, not the activity.
