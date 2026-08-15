@@ -48,7 +48,7 @@ delivering on it.
 | Question the brief / problem framing with PO + engineers | Nacos: *"Reduced development uncertainty by solving ambiguous problems early… aligned stakeholders on problem framing"* | Nacos bullet 3, moved up |
 | Craft with the design system, propose components | Nacos: design systems across legacy interfaces; Cytiva: helped maintain a design system | Skills list position 4; Nacos bullet 4 |
 | Ship — evidence, engineers, Design QA | Nacos: discovery interviews, usability testing, cross-functional with POs/engineers; Cytiva: co-developed | Nacos bullets 3 & 5; Cytiva bullet 2; Development skills (HTML/CSS/Python) kept visible |
-| Smart prototyping, AI for breadth | Skills: Prototyping; Tools: Figma, ProtoPie, Framer; AI tools block | Skills list position 3; tools blocks unchanged |
+| Smart prototyping, high-fidelity, real data | Skill renamed **Smart prototyping**; Nacos bullet 3 (new): high-fidelity mockups and prototyping with real data, confirmed by Gabriela; Tools: Figma, ProtoPie, Framer; AI tools block | Skills list position 3; Nacos bullet 3; tools blocks unchanged |
 | Attention to visual & interaction detail | Profile closing line; Interaction 2024 paper | Profile; Honours |
 | Accessibility / WCAG (plus) | Skill: Accessibility (WCAG); Nacos: *"intuitive and accessible systems"*; MSc coursework: accessibility | Skills list position 7; Nacos bullet 1; MSc description |
 | Security / trust framing (Nord's domain) | Nacos: *"systems that build user trust under high pressure"* | Nacos bullet 1 |

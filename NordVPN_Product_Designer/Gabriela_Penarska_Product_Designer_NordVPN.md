@@ -21,7 +21,7 @@ Product Designer with **5 years** of experience owning commercial and technical 
 
 - End-to-end product design
 - Interaction design
-- Prototyping
+- Smart prototyping
 - Design systems
 - UI design
 - Visual design
@@ -69,6 +69,7 @@ Product Designer with **5 years** of experience owning commercial and technical 
 
 - Led and shipped end-to-end UX design and product strategy for new vessel monitoring interfaces across web, desktop and HMI, designing to each platform's constraints while holding one recognisable product identity, and translating complex technical requirements into intuitive and accessible systems that build user trust under high pressure. Delivered to **13 000+ ships** globally, supporting **30k+ daily active users**.
 - Cut time-to-task execution by **70%** by transforming high-volume data into high-impact dashboards and monitoring panels handling **70+ active data points** per single page.
+- Validated interaction decisions before build by designing high-fidelity mockups and prototyping with real data rather than placeholder content.
 - Reduced development uncertainty by surfacing assumptions early rather than delivering the brief as written: led discovery interviews and usability testing across enterprise and consumer products, and facilitated iterative co-creation workshops and design reviews that aligned stakeholders on problem framing and solution direction.
 - Increased engineer productivity and scoped down long manuals by growing design systems and architecting user-centric (HCI) workflow improvements across the legacy interfaces.
 - Lowered time-to-critical decision and cognitive load by collaborating cross-functionally with product owners, engineers and developers from different countries to define customer needs and product strategy.
