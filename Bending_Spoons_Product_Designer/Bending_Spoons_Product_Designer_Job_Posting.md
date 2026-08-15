@@ -142,7 +142,8 @@ commitment. Most days in the Milan office for the first few months.
 ## Cover letter
 
 `Gabriela_Penarska_Cover_Letter_BendingSpoons.{md,html,pdf}`, same design tokens as the CV.
-Four paragraphs, mapped to the posting:
+Addressed to **Bending Spoons** (not the WeTransfer sub-brand), Warsaw, Poland. Four paragraphs,
+mapped to the posting:
 
 1. **Hook.** WeTransfer as a product that never needed explaining, set against five years spent on
    dense technical surfaces. Positions the consumer gap as the transferable craft rather than
@@ -150,10 +151,11 @@ Four paragraphs, mapped to the posting:
 2. **Evidence.** Nacos scale and the IA subtraction (nested menus, 22 functions into 10, 70%),
    "worked next to product owners and engineers from the first sketch", "defining UX requirements
    early", the repeat order, then Cytiva and the design/code boundary.
-3. **AI.** Figma Make and Claude Design for exploring directions, Claude Code and Codex for
-   interactive prototypes. Grounded in the DTU MSc (10.56/12) and the human-in-the-loop work:
-   the children's storytelling system and the low-vision reading app, both carried over from the
-   Asana letter.
+3. **Process.** "Human-centered and evidence-led": research and co-creation, narrowing to one
+   well-defined problem, something testable quickly, with AI tools named as part of the process
+   rather than as a workflow the posting prescribed. Grounded in the DTU MSc (10.56/12) and the
+   human-in-the-loop work: the children's storytelling system and the low-vision reading app, both
+   carried over from the Asana letter.
 4. **Drive and Milan.** "Rather be held to a rising bar than a comfortable one", plus prior moves
    to Copenhagen, Krakow, Tokyo and Lisbon to answer the Milan-office expectation head on.
 
