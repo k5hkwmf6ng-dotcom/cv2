@@ -23,7 +23,7 @@ application folder, re-order for the new posting and swap the accent colour — 
 
 | Folder | Accent | Notes |
 |---|---|---|
-| `Bending_Spoons_Product_Designer/` | `#000000` | WeTransfer/Bending Spoons. Monochrome — their identity is black & white only. Posting is AI-native (Cursor, Claude Code, "start with an LLM"), so the profile leads with the AI working process; posting text pasted in by the candidate. |
+| `Bending_Spoons_Product_Designer/` | `#F06A6A` | WeTransfer/Bending Spoons. Their identity is black & white (Brandfetch) and a monochrome build was tried, but the candidate preferred the coral. Posting is AI-native (Cursor, Claude Code, "start with an LLM"); the profile names the AI tools without echoing the posting's wording. |
 
 Content carried forward from the `reference/` PDFs and **not** in `CV_source.md` (approved in
 earlier sessions — keep reusing, don't re-derive): the IA metrics **4–5 levels of nested menus
@@ -48,6 +48,10 @@ to 2** and **22 functions into 10**, the Green Challenge **8 weeks**, the Langua
 4. **Bullets follow the outcome formula:** *accomplished [X] as measured by [Y], by
    doing [Z]*. Lead with the result, not the activity.
 5. Keep tense consistent: Nacos Marine ended Dec 2025, so both roles are past tense.
+6. **No em dashes** anywhere in the CV text. En dashes are fine (date ranges, bullet markers).
+7. **Don't echo the posting verbatim in the Profile.** Use its vocabulary, but keep the paragraph
+   in the candidate's own register, close to the NordVPN and Allegro profiles in `reference/`.
+   Posting language belongs in the experience bullets, where it is backed by outcomes.
 
 ---
 
@@ -79,7 +83,7 @@ The accent drives: section headings, the role line under the name, the `|`
 separators in job titles, and the `–` bullet dashes. Changing `--coral` alone
 re-themes the whole document. Newer builds name the token `--accent` instead of
 `--coral`; same role. Accents used so far: Asana `#F06A6A`, NordVPN blue,
-Allegro orange, Bending Spoons `#000000`.
+Allegro orange, Bending Spoons `#F06A6A` (coral kept by request).
 
 Font is **Carlito** (metric-compatible with Calibri), carried over from the
 original CV. Install with:

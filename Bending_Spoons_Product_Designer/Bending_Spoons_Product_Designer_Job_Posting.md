@@ -111,15 +111,18 @@ commitment. Most days in the Milan office for the first few months.
 | "talk directly with customers" | Nacos discovery bullet + "presenting the work directly to major customers" |
 | "move fast to deliver" | Honours — Android app shipped in **8 weeks** |
 | "Proficiency in English" | Languages block (English fluent) |
-| "Start with an LLM" / AI tools | Profile + `AI tools` skill group (Claude Code, Codex, Figma Make, Claude Design, Google Stitch) |
+| "Start with an LLM" / "Use AI tools" | Profile ("I work with AI tools such as Claude Code and Codex to explore more directions") + `Agentic AI & LLMs` skill + `AI tools` group |
+| "explore more directions" | Profile |
+| "high—and rising—bar" | Profile ("a high and rising bar") |
+| "details that matter" | Profile |
 
 ## Claims that need the candidate's confirmation
 
-1. **AI in the working process.** The profile now states that she frames intent with an LLM before
-   opening a design tool and uses Claude Code and Codex for interactive prototypes and frontend
-   code. This is extrapolated from the `AI tools` skill list — no dated experience bullet backs it.
-   Confirm it's true, or soften it.
-2. **Figma ↔ code fluidity at Cytiva.** The bullet now reads "moving between Figma and frontend
+1. **AI in the working process.** The profile states she works with AI tools such as Claude Code
+   and Codex to explore more directions and reach interactive prototypes faster. This rests on the
+   `AI tools` skill list; no dated experience bullet backs it. Deliberately kept at this level
+   rather than mirroring the posting's "Start with an LLM" wording, which read as too explicit.
+2. **Figma to code fluidity at Cytiva.** The bullet now reads "moving between Figma and frontend
    code" on the basis of "designed, **co-developed** and delivered" plus HTML/CSS. Confirm.
 
 ## Still missing — cannot be written without new facts

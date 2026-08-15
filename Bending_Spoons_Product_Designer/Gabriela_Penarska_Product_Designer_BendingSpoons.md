@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **5 years** of experience taking products from ambiguous problem to polished delivery across web, desktop and mobile. My strength is complexity and ambiguity: I reason from first principles and turn sharp problem framing into UI and UX that is intuitive, effective and delightful. I start with an LLM to clarify intent and surface edge cases before opening a design tool, and move between Figma and code — Claude Code, Codex — to reach interactive prototypes fast. I'm extremely ambitious, and I co-create with PMs and engineers from day one.
+Product Designer with **5 years** of experience owning products end-to-end, from ambiguous problem to polished delivery, across web, desktop and mobile. My strength is thinking through complexity and ambiguity: I reason from first principles, frame the problem with PMs and engineers before the pixels, and turn it into UI and UX that is intuitive, effective and delightful. I work with AI tools such as Claude Code and Codex to explore more directions and reach interactive prototypes faster. I'm extremely ambitious, and I hold myself to a high and rising bar for the details that matter.
 
 ---
 
@@ -33,7 +33,7 @@ Product Designer with **5 years** of experience taking products from ambiguous p
 - Accessibility (WCAG)
 - Human-computer interaction
 - Data visualization
-- Agentic AI
+- Agentic AI & LLMs
 
 ### Tools
 
