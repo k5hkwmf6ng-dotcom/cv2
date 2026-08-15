@@ -63,9 +63,11 @@ delivering on it.
 - **Motion design** — listed as a plus in the posting, not present in `CV_source.md`.
   ProtoPie in the tools list is the closest existing signal; no motion-design skill was
   added. Ask Gabriela before adding one.
-- **Native iOS / Android app design** — the only mobile evidence in the source is the DTU
-  Green Challenge Android app. It was surfaced (moved to the top of Honours) but not
-  inflated into professional mobile experience.
+- **Professional mobile app design** — confirmed by Gabriela: her mobile work is side and
+  student projects, not work inside a role. So mobile sits *outside* the "5 years" clause
+  in the profile — "…across desktop and web, … and mobile work from my own projects" — and
+  the DTU Green Challenge Android app leads Honours. Do not fold mobile back into the
+  years-of-experience claim in future tailorings.
 - **Browser extensions** — no evidence in the source; not claimed.
 
 ## Design tokens for this application

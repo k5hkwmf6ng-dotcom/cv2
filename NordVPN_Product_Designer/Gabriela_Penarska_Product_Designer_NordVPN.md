@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **5 years** of experience owning product design end-to-end across desktop, web and HMI interfaces, from ambiguous problem to shipped products with business impact. I bring clarity to complex technical domains by framing the problem with product owners and engineers before the pixels, backing decisions with research, and designing with the system rather than around it. I pay close attention to visual and interaction detail, accessibility, and the technical realities of what I design.
+Product Designer with **5 years** of experience owning product design end-to-end across desktop and web, from ambiguous problem to shipped products with business impact, and mobile work from my own projects. I bring clarity to complex technical domains by framing the problem with product owners and engineers before the pixels, backing decisions with research, and designing with the system rather than around it. I pay close attention to visual and interaction detail, accessibility, and the technical realities of what I design.
 
 ---
 
@@ -80,7 +80,7 @@ Product Designer with **5 years** of experience owning product design end-to-end
 
 - Cut daily task-completion time by **30%** for **500+ employees** by leading the redesign of the internal hour-tracking system.
 - Designed, co-developed and delivered an end-to-end new desktop customer-ordering tool.
-- Helped maintain a design system.
+- Helped maintain a design system together with other designers.
 - Simplified equipment ordering for sourcing specialists by redesigning procurement data dashboards, informed by qualitative user research.
 - Partnered with business analysts, developers and project managers, co-designed the company's internal employee website and presented work to customers.
 
