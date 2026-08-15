@@ -63,11 +63,11 @@ delivering on it.
 - **Motion design** — listed as a plus in the posting, not present in `CV_source.md`.
   ProtoPie in the tools list is the closest existing signal; no motion-design skill was
   added. Ask Gabriela before adding one.
-- **Professional mobile app design** — confirmed by Gabriela: her mobile work is side and
-  student projects, not work inside a role. So mobile sits *outside* the "5 years" clause
-  in the profile — "…across desktop and web, … and mobile work from my own projects" — and
-  the DTU Green Challenge Android app leads Honours. Do not fold mobile back into the
-  years-of-experience claim in future tailorings.
+- **Mobile in the profile** — Gabriela's decision, after being asked. She first confirmed
+  her mobile work is side and student projects, then chose the wording "responsive web,
+  desktop and mobile" inside the "5 years" clause. Keep that phrasing; she owns the claim
+  and can speak to the work in interview. The DTU Green Challenge Android app leads
+  Honours as the visible mobile artefact.
 - **Browser extensions** — no evidence in the source; not claimed.
 
 ## Design tokens for this application
