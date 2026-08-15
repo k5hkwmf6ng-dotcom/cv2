@@ -5,7 +5,7 @@ gabriela.penarska@gmail.com · gabrielapenarska.framer.website · linkedin.com/i
 15 August 2026
 
 Bending Spoons
-Product Design
+UX/UI designer, WeTransfer
 Warsaw, Poland
 
 Dear Bending Spoons team,
