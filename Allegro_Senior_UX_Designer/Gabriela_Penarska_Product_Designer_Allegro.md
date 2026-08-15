@@ -84,8 +84,8 @@ Product Designer with **5 years** of experience taking commercial and technical 
 *May 2021 – Jan 2023 · Krakow*
 
 - Cut daily task-completion time by **30%** for **500+ employees** by leading the redesign of the internal hour-tracking system.
-- Designed, co-developed and delivered a new end-to-end B2B SaaS customer-ordering tool across desktop and responsive web.
-- Simplified equipment ordering for sourcing specialists by redesigning B2B SaaS procurement data dashboards, informed by qualitative user research.
+- Designed, co-developed and delivered a new end-to-end B2B SaaS customer-ordering tool across desktop.
+- Simplified equipment ordering for sourcing specialists by redesigning procurement data dashboards, informed by qualitative user research.
 - Helped maintain a design system with other designers.
 - Partnered with business analysts, developers and project managers, co-designed the company's internal employee website and presented work to customers.
 
