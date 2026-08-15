@@ -45,6 +45,10 @@ preserve-always list in ground rule 3.
 4. **Bullets follow the outcome formula:** *accomplished [X] as measured by [Y], by
    doing [Z]*. Lead with the result, not the activity.
 5. Keep tense consistent: Nacos Marine ended Dec 2025, so both roles are past tense.
+6. **No em dashes (`—`) anywhere in CV or cover-letter copy.** Use commas, colons
+   or a full stop instead. En dashes (`–`) stay: they are correct in date ranges
+   (`Jan 2023 – Dec 2025`), numeric ranges (`4–5 levels`) and the bullet glyph.
+   Check with `grep -n "—"` before every render.
 
 ---
 

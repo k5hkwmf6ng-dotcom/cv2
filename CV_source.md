@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **5 years** of experience taking commercial and technical systems end-to-end, from ambiguous problem to shipped products with business impact. My mission is to bring clarity to complex problems by owning the full process, with a human-centered approach and collaboration at its heart, to create simple and elegant solutions. I pay close attention to detail, with an eye on product strategy and the technical side of what I design.
+Product Designer with **5 years** of experience taking commercial and technical systems end-to-end, from ambiguous problem to shipped products with business impact. My strength is thinking through complexity and ambiguity, built across two roles designing data-dense dashboards and complex web interfaces. I bring clarity by owning the full process, human-centered and collaborative, with an eye on product strategy and the technical side of what I design.
 
 ---
 
@@ -73,14 +73,14 @@ Product Designer with **5 years** of experience taking commercial and technical 
 - Cut navigation depth from **4–5 levels of nested menus to 2** and consolidated **22 functions into 10** by restructuring the information architecture of the system, reducing operators' reliance on the manual for core tasks.
 - Increased engineer productivity by architecting user-centric (HCI) workflow improvements and design systems across the legacy interfaces.
 - Lowered time-to-critical decision and cognitive load by collaborating cross-functionally with product owners, engineers and developers from different countries to define customer needs and product strategy.
-- Won repeat business — a customer ordered a second interface after a successful release — by designing novel end-to-end patterns for vessel navigation that held the brand identity, and presenting the work directly to major customers.
+- Won repeat business, a customer ordering a second interface after a successful release, by designing novel end-to-end patterns for vessel navigation that held the brand identity and presenting the work directly to major customers.
 
 ### UX/UI Designer | Cytiva
 
 *May 2021 – Jan 2023 · Krakow*
 
 - Cut daily task-completion time by **30%** for **500+ employees** by leading the redesign of the internal hour-tracking system.
-- Designed, co-developed and delivered a new end-to-end B2B SaaS customer-ordering tool for desktop.
+- Designed, co-developed and delivered a new end-to-end B2B SaaS customer-ordering tool across desktop and responsive web.
 - Simplified equipment ordering for sourcing specialists by redesigning B2B SaaS procurement data dashboards, informed by qualitative user research.
 - Helped maintain a design system.
 - Partnered with business analysts, developers and project managers, co-designed the company's internal employee website and presented work to customers.
