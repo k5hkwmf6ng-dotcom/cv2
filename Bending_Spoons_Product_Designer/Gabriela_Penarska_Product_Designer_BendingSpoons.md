@@ -62,10 +62,10 @@ Product Designer with **5 years** of experience owning products end-to-end, from
 - Shaped high-leverage UI and UX end-to-end, from early concepts to polished delivery, for new vessel monitoring interfaces across web, desktop and HMI, translating complex technical requirements into intuitive, accessible systems that build user trust under high pressure. Delivered to **13 000+ ships** globally, supporting **30k+ daily active users**.
 - Cut time-to-task execution by **70%** by transforming high-volume data into high-impact dashboards and monitoring panels handling **70+ active data points** per single page.
 - Compressed the time from ambiguity to direction by talking directly with customers: led discovery interviews and usability testing across enterprise and consumer products, and facilitated workshops that aligned stakeholders on direction.
-- Validated and measured interaction decisions before build by turning rough concepts into interactive prototypes running on real data, testing alternative directions until the simplest one held up.
+- Validated and measured interaction decisions before build by turning rough concepts into interactive prototypes running on real data.
 - Restructured the information architecture from first principles, cutting navigation depth from **4–5 levels of nested menus to 2** and consolidating **22 functions into 10**, reducing operators' reliance on the manual for core tasks.
 - Co-created with product owners, engineers and developers from day one across countries, defining UX requirements early and making engineering-aware design decisions that lowered time-to-critical decision and cognitive load.
-- Unlocked business value and won repeat business, a customer ordering a second interface after a successful release, by designing novel end-to-end patterns for vessel navigation that held the brand identity, and presenting the work directly to major customers.
+- Unlocked business value and won repeat business, **a customer ordering a second interface after a successful release**, by designing novel end-to-end patterns for vessel navigation that held the brand identity, and presenting the work directly to major customers.
 
 ### UX/UI Designer | Cytiva
 
