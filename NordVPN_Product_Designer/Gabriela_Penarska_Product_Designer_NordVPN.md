@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **5 years** of experience owning product design end-to-end across responsive web, desktop and mobile, from ambiguous problem to shipped products with business impact. I bring clarity to complex technical domains by framing the problem with product owners and engineers before the pixels, backing decisions with research, and designing with the system rather than around it. I pay close attention to visual and interaction detail, accessibility, and the technical realities of what I design.
+Product Designer with **5 years** of experience owning commercial and technical systems end-to-end, from ambiguous problem to shipped products with business impact, across responsive web, desktop and mobile. I bring clarity to complex technical domains by framing the problem with product owners and engineers before the pixels, backing decisions with research, and designing with the system rather than around it. I pay close attention to visual and interaction detail, accessibility, and the technical realities of what I design.
 
 ---
 
