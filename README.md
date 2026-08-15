@@ -23,7 +23,7 @@ application folder, re-order for the new posting and swap the accent colour — 
 
 | Folder | Accent | Notes |
 |---|---|---|
-| `Bending_Spoons_Product_Designer/` | `#000000` | Monochrome; Bending Spoons' identity is black & white only. Posting could not be fetched (egress-blocked) — requirements reconstructed from search. |
+| `Bending_Spoons_Product_Designer/` | `#000000` | WeTransfer/Bending Spoons. Monochrome — their identity is black & white only. Posting is AI-native (Cursor, Claude Code, "start with an LLM"), so the profile leads with the AI working process; posting text pasted in by the candidate. |
 
 Content carried forward from the `reference/` PDFs and **not** in `CV_source.md` (approved in
 earlier sessions — keep reusing, don't re-derive): the IA metrics **4–5 levels of nested menus
@@ -152,7 +152,27 @@ column is taller, so bullet wording and `ul.bullets` spacing were the levers.)
 
 Reference target for the bottom margin: both shipped PDFs in `reference/` land at a lowest
 baseline of **35.7pt**. Anything below ~35pt looks cramped; the Bending Spoons build sits
-at 47.7pt.
+at 35.0pt.
+
+**Blink does not always fragment the grid.** If `.grid.band` exceeds the page by even a
+fraction, Chromium may move the *entire* band to page 2 instead of splitting it — so a
+"2 pages" result can look catastrophic when you are only ~10pt over. Measure the overflow
+directly instead of guessing, and leave 10–15pt of headroom:
+
+```bash
+# inject a measuring script into a scratch copy, then read it back
+# bandBottom must stay below 821.9pt (841.89 - 20pt bottom padding)
+```
+
+```js
+const p = v => (v*0.75).toFixed(1);                       // px → pt
+const b = document.querySelector('.band');
+JSON.stringify({ bandBottom: p(b.getBoundingClientRect().bottom), limit: 821.9,
+                 main: p(document.querySelector('.main').getBoundingClientRect().height),
+                 aside: p(document.querySelector('.aside').getBoundingClientRect().height) });
+```
+
+Run it with `chrome --headless --dump-dom` after stashing the result in an attribute.
 
 ---
 

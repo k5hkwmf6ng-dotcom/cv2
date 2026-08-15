@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **5 years** of experience owning products end-to-end, from ambiguous problem to shipped interface, across web, desktop and mobile. I design for effectiveness and for craft: high-fidelity UI backed by user research, prototyping and data, delivered inside real engineering constraints. I work closest with product managers and engineers, framing the problem before the pixels, and I sweat the details that make a product feel obvious.
+Product Designer with **5 years** of experience taking products from ambiguous problem to polished delivery across web, desktop and mobile. My strength is complexity and ambiguity: I reason from first principles and turn sharp problem framing into UI and UX that is intuitive, effective and delightful. I start with an LLM to clarify intent and surface edge cases before opening a design tool, and move between Figma and code — Claude Code, Codex — to reach interactive prototypes fast. I'm extremely ambitious, and I co-create with PMs and engineers from day one.
 
 ---
 
@@ -59,21 +59,21 @@ Product Designer with **5 years** of experience owning products end-to-end, from
 
 *Jan 2023 – Dec 2025 · Copenhagen*
 
-- Led and shipped end-to-end UX and UI design for new vessel monitoring interfaces across web, desktop and HMI, designing to each platform's constraints while holding one recognisable product identity, and translating complex technical requirements into intuitive, accessible systems that build user trust under high pressure. Delivered to **13 000+ ships** globally, supporting **30k+ daily active users**.
+- Shaped high-leverage UI and UX end-to-end, from early concepts to polished delivery, for new vessel monitoring interfaces across web, desktop and HMI, translating complex technical requirements into intuitive, accessible systems that build user trust under high pressure. Delivered to **13 000+ ships** globally, supporting **30k+ daily active users**.
 - Cut time-to-task execution by **70%** by transforming high-volume data into high-impact dashboards and monitoring panels handling **70+ active data points** per single page.
-- Kept customers at the core of the design: led discovery interviews and usability testing across enterprise and consumer products, and facilitated iterative co-creation workshops that aligned stakeholders on problem framing and solution direction.
-- Validated interaction decisions before build by prototyping with real data rather than placeholder content, testing alternative patterns until the simplest one held up.
-- Cut navigation depth from **4–5 levels of nested menus to 2** and consolidated **22 functions into 10** by restructuring the information architecture, reducing operators' reliance on the manual for core tasks.
-- Proposed and shipped feature improvements by working shoulder-to-shoulder with product owners, engineers and developers across countries, defining customer needs and product strategy and lowering time-to-critical decision and cognitive load.
-- Won repeat business, a customer ordering a second interface after a successful release, by designing novel end-to-end patterns for vessel navigation that held the brand identity, and presenting the work directly to major customers.
+- Compressed the time from ambiguity to direction by talking directly with customers: led discovery interviews and usability testing across enterprise and consumer products, and facilitated workshops that aligned stakeholders on direction.
+- Validated and measured interaction decisions before build by turning rough concepts into interactive prototypes running on real data, testing alternative directions until the simplest one held up.
+- Restructured the information architecture from first principles, cutting navigation depth from **4–5 levels of nested menus to 2** and consolidating **22 functions into 10**, reducing operators' reliance on the manual for core tasks.
+- Co-created with product owners, engineers and developers from day one across countries, defining UX requirements early and making engineering-aware design decisions that lowered time-to-critical decision and cognitive load.
+- Unlocked business value and won repeat business, a customer ordering a second interface after a successful release, by designing novel end-to-end patterns for vessel navigation that held the brand identity, and presenting the work directly to major customers.
 
 ### UX/UI Designer | Cytiva
 
 *May 2021 – Jan 2023 · Krakow*
 
 - Cut daily task-completion time by **30%** for **500+ employees** by leading the redesign of the internal hour-tracking system.
-- Designed, co-developed and delivered an end-to-end new desktop customer-ordering tool.
-- Simplified equipment ordering for sourcing specialists by redesigning procurement data dashboards, informed by qualitative user research.
+- Designed, co-developed and delivered an end-to-end new desktop customer-ordering tool, moving between Figma and frontend code to get the best result.
+- Simplified equipment ordering for sourcing specialists by redesigning procurement data dashboards, informed by qualitative research run directly with users.
 - Helped maintain a design system with other designers.
 - Partnered with business analysts, developers and project managers, co-designed the company's internal employee website and presented work to customers.
 
