@@ -142,8 +142,8 @@ commitment. Most days in the Milan office for the first few months.
 ## Cover letter
 
 `Gabriela_Penarska_Cover_Letter_BendingSpoons.{md,html,pdf}`, same design tokens as the CV.
-Addressed to **Bending Spoons** (not the WeTransfer sub-brand), Warsaw, Poland. Four paragraphs,
-mapped to the posting:
+Addressed to **Bending Spoons**, role line "UX/UI designer, WeTransfer", Warsaw, Poland. Four
+paragraphs, mapped to the posting:
 
 1. **Hook.** WeTransfer as a product that never needed explaining, set against five years spent on
    dense technical surfaces. Positions the consumer gap as the transferable craft rather than
@@ -161,4 +161,5 @@ mapped to the posting:
 
 Content carried over from `Cover_Letter_source.md` and not present in `CV_source.md`: the AI
 storytelling system for children, the mobile reading app for low-vision users, and the filmmaking
-detail. Claim to confirm: "finished with 10.56 out of 12 while working full time".
+detail. The "while working full time" claim and the human-in-the-loop question were cut at the
+candidate's request; the GPA stays.

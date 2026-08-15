@@ -216,8 +216,8 @@ Carry these forward — they were flagged but not resolved:
 - CV states 5 years; May 2021 → Dec 2025 is 4 years 8 months.
 - The cover letter carries a hardcoded date in the template (`11 August 2026`) — set it
   per application. The Bending Spoons letter carries `15 August 2026`.
-- The letter claims the MSc was finished "while working full time". The dates overlap
-  (MSc Aug 2022 to Mar 2025, Nacos Jan 2023 to Dec 2025), but confirm the phrasing.
+- "While working full time" was removed from the Bending Spoons letter at the candidate's
+  request; do not reintroduce it without her say-so.
 - No consumer-mobile-at-scale experience is claimed anywhere; product-led consumer
   companies (Bending Spoons, and others like it) will look for it. Nothing to invent —
   it's a portfolio job.
