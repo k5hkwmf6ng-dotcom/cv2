@@ -23,14 +23,11 @@ Product Designer with **5 years** of experience taking commercial and technical 
 - End-to-end product design
 - Interaction design
 - UI & visual design
-- Responsive web design
-- Mobile app design (Android)
 - Design systems & components
 - Prototyping
 - Wireframing & sketching
 - User research & usability testing
 - A/B testing & experimentation
-- Customer experience (CX)
 - Data-driven insights
 - Data visualization
 - Human-computer interaction
@@ -89,7 +86,7 @@ Product Designer with **5 years** of experience taking commercial and technical 
 - Cut daily task-completion time by **30%** for **500+ employees** by leading the redesign of the internal hour-tracking system.
 - Designed, co-developed and delivered a new end-to-end B2B SaaS customer-ordering tool across desktop and responsive web.
 - Simplified equipment ordering for sourcing specialists by redesigning B2B SaaS procurement data dashboards, informed by qualitative user research.
-- Maintained shared design system components.
+- Helped maintain a design system with other designers.
 - Partnered with business analysts, developers and project managers, co-designed the company's internal employee website and presented work to customers.
 
 ---
