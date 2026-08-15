@@ -120,6 +120,23 @@ EOF
 `pypdfium2` is the extractor to use — `pypdf` and `pdfplumber` fail in this
 environment on a broken `cryptography` binding.
 
+### Also check reading order — ATS parsers read the content stream literally
+
+```bash
+python3 -c "
+import pypdfium2 as pdfium
+for l in pdfium.PdfDocument('OUT.pdf')[0].get_textpage().get_text_range().split(chr(10))[:130]: print(l)"
+```
+
+Each job's bullets must appear directly under that job's title and dates. If the
+bullets come out as one blob after Education, something in the bullet CSS is
+creating a positioned box: Chromium paints positioned elements in a later layer
+and writes their text at the end of the PDF content stream, which detaches every
+achievement from the employer it belongs to. This bit the original
+`position: absolute` dash — the marker is now an inline `::before` with a
+negative `text-indent`, which looks identical and extracts in order. Do not
+reintroduce `position: relative` on `ul.bullets li`.
+
 ### If it spills to two pages
 
 Never drop a metric bullet. Tighten in this order, re-rendering each time:

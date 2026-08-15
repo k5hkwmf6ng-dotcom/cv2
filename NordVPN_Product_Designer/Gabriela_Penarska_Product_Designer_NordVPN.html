@@ -156,16 +156,18 @@
     font-size: 9pt;
     line-height: 1.26;
   }
+  /* Hanging indent rather than position:absolute for the dash.  A positioned
+     element paints in a later layer, which pushes every bullet's text to the
+     end of the PDF content stream and detaches it from its job heading — ATS
+     parsers read that order literally.  text-indent keeps the marker inline. */
   ul.bullets li{
-    position: relative;
     padding-left: 8.5pt;
+    text-indent: -8.5pt;
     margin-top: 2.0pt;
   }
   ul.bullets li:first-child{ margin-top: 0; }
   ul.bullets li::before{
-    content: "–";
-    position: absolute;
-    left: 0;
+    content: "–\00a0\00a0";
     color: var(--coral);
   }
   b{ font-weight: 700; color: var(--ink); }
