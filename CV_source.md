@@ -3,7 +3,7 @@
 **Product Designer**
 
 gabriela.penarska@gmail.com
-gabrielapenarska.framer.website
+Portfolio: gabrielapenarska.framer.website
 linkedin.com/in/gabriela-penarska
 (+48) 600 627 119
 
@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **5 years** of experience taking commercial and technical systems end-to-end, from ambiguous problem to shipped products with business impact. My strength is thinking through complexity and ambiguity, built across two roles designing data-dense dashboards and complex web interfaces. I bring clarity by owning the full process, human-centered and collaborative, with an eye on product strategy and the technical side of what I design.
+Product Designer with **5 years** of experience taking commercial and technical systems end-to-end, from ambiguous problem to shipped products with business impact. My strength is thinking through complexity and ambiguity, built across two roles designing data-dense dashboards and complex web interfaces. I bring clarity by owning the full process, human-centered and collaborative, with an eye on customer experience, product strategy and the technical side of what I design.
 
 ---
 
@@ -22,18 +22,20 @@ Product Designer with **5 years** of experience taking commercial and technical 
 - Human-centered design
 - End-to-end product design
 - Interaction design
-- UI design
+- UI & visual design
+- Responsive web design
+- Mobile app design (Android)
+- Design systems & components
 - Prototyping
-- Design systems
-- User research
-- Usability testing
+- Wireframing & sketching
+- User research & usability testing
+- A/B testing & experimentation
+- Customer experience (CX)
 - Data-driven insights
 - Data visualization
 - Human-computer interaction
 - Agentic AI
 - Information architecture
-- Wireframing
-- Visual design
 - Accessibility (WCAG)
 
 ### Tools
@@ -59,6 +61,11 @@ Product Designer with **5 years** of experience taking commercial and technical 
 - CSS
 - Python
 
+### Languages
+
+- Polish (native)
+- English (fluent)
+
 ---
 
 ## Experience
@@ -67,13 +74,13 @@ Product Designer with **5 years** of experience taking commercial and technical 
 
 *Jan 2023 – Dec 2025 · Copenhagen*
 
-- Led and shipped end-to-end UX design and product strategy for new vessel monitoring interfaces (web, desktop and HMI), translating complex technical constraints and requirements into intuitive and accessible systems that build user trust under high pressure. Delivered to **13 000+ ships** globally, supporting **30k+ daily active users**.
+- Led and shipped end-to-end UX design and product strategy for new vessel monitoring interfaces (web, desktop and HMI) used in maritime logistics operations, translating complex technical constraints into intuitive and accessible systems that build user trust under high pressure. Delivered across international markets to **13 000+ ships** globally, supporting **30k+ daily active users**.
 - Cut time-to-task execution by **70%** by transforming high-volume data into high-impact dashboards and monitoring panels handling **70+ active data points** per single page.
-- Reduced development uncertainty by solving ambiguous problems early: led discovery interviews and usability testing across enterprise and consumer products, and facilitated iterative co-creation workshops and design reviews that aligned stakeholders on problem framing and solution direction.
+- Reduced development uncertainty by framing and validating hypotheses early: led discovery interviews and usability testing across enterprise and consumer products, and facilitated iterative co-creation workshops that aligned stakeholders on problem framing and solution direction.
 - Cut navigation depth from **4–5 levels of nested menus to 2** and consolidated **22 functions into 10** by restructuring the information architecture of the system, reducing operators' reliance on the manual for core tasks.
-- Increased engineer productivity by architecting user-centric (HCI) workflow improvements and design systems across the legacy interfaces.
+- Increased engineer productivity by architecting user-centric (HCI) workflow improvements and reusable design system components across the legacy interfaces.
 - Lowered time-to-critical decision and cognitive load by collaborating cross-functionally with product owners, engineers and developers from different countries to define customer needs and product strategy.
-- Won repeat business, a customer ordering a second interface after a successful release, by designing novel end-to-end patterns for vessel navigation that held the brand identity and presenting the work directly to major customers.
+- Won repeat business, a customer ordering a second interface after a successful release, by designing novel end-to-end patterns for vessel navigation that strengthened the customer experience (CX) and held the brand identity, and presenting the work directly to major customers.
 
 ### UX/UI Designer | Cytiva
 
@@ -82,7 +89,7 @@ Product Designer with **5 years** of experience taking commercial and technical 
 - Cut daily task-completion time by **30%** for **500+ employees** by leading the redesign of the internal hour-tracking system.
 - Designed, co-developed and delivered a new end-to-end B2B SaaS customer-ordering tool across desktop and responsive web.
 - Simplified equipment ordering for sourcing specialists by redesigning B2B SaaS procurement data dashboards, informed by qualitative user research.
-- Helped maintain a design system.
+- Maintained shared design system components.
 - Partnered with business analysts, developers and project managers, co-designed the company's internal employee website and presented work to customers.
 
 ---
