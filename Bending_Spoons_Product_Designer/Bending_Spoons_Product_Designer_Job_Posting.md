@@ -136,3 +136,27 @@ commitment. Most days in the Milan office for the first few months.
   B2B/technical. Only "across enterprise and consumer products" and the Android app counterbalance.
 - **Mobile.** One student Android app is the whole mobile record.
 - **Milan / relocation willingness.** Nowhere on the CV; belongs in the application form or letter.
+
+---
+
+## Cover letter
+
+`Gabriela_Penarska_Cover_Letter_BendingSpoons.{md,html,pdf}`, same design tokens as the CV.
+Four paragraphs, mapped to the posting:
+
+1. **Hook.** WeTransfer as a product that never needed explaining, set against five years spent on
+   dense technical surfaces. Positions the consumer gap as the transferable craft rather than
+   ignoring it.
+2. **Evidence.** Nacos scale and the IA subtraction (nested menus, 22 functions into 10, 70%),
+   "worked next to product owners and engineers from the first sketch", "defining UX requirements
+   early", the repeat order, then Cytiva and the design/code boundary.
+3. **AI.** Figma Make and Claude Design for exploring directions, Claude Code and Codex for
+   interactive prototypes. Grounded in the DTU MSc (10.56/12) and the human-in-the-loop work:
+   the children's storytelling system and the low-vision reading app, both carried over from the
+   Asana letter.
+4. **Drive and Milan.** "Rather be held to a rising bar than a comfortable one", plus prior moves
+   to Copenhagen, Krakow, Tokyo and Lisbon to answer the Milan-office expectation head on.
+
+Content carried over from `Cover_Letter_source.md` and not present in `CV_source.md`: the AI
+storytelling system for children, the mobile reading app for low-vision users, and the filmmaking
+detail. Claim to confirm: "finished with 10.56 out of 12 while working full time".

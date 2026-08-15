@@ -9,8 +9,8 @@ for a new job posting. Hand this whole folder to a fresh session.
 |---|---|
 | `CV_source.md` | **Source of truth** for CV content. Edit this first. |
 | `CV_template.html` | The layout. Must be kept in exact sync with the `.md`. |
-| `Cover_Letter_source.md` | Cover letter text. *(not present in this repo yet)* |
-| `Cover_Letter_template.html` | Single-column letter layout, same design tokens as the CV. *(not present yet)* |
+| `Cover_Letter_source.md` | Cover letter text (Asana version, the base to rewrite from). |
+| `Cover_Letter_template.html` | Single-column letter layout, same design tokens as the CV. |
 | `reference/` | Previously shipped tailorings (NordVPN, Allegro) — useful as style reference. |
 | `<Company>_<Job_Title>/` | One folder per application; see the layout at the bottom. |
 | `README.md` | This file. |
@@ -214,9 +214,10 @@ Carry these forward — they were flagged but not resolved:
 - MSc thesis says "a wearable button" — confirm the correct device name.
 - "Figma Make" is listed under AI tools; confirm that's the intended product.
 - CV states 5 years; May 2021 → Dec 2025 is 4 years 8 months.
-- The cover letter carries a hardcoded date (`11 August 2026`) — update or remove
-  it before sending. (The cover-letter files were not supplied to the Bending Spoons
-  session, so no letter was produced for that application.)
+- The cover letter carries a hardcoded date in the template (`11 August 2026`) — set it
+  per application. The Bending Spoons letter carries `15 August 2026`.
+- The letter claims the MSc was finished "while working full time". The dates overlap
+  (MSc Aug 2022 to Mar 2025, Nacos Jan 2023 to Dec 2025), but confirm the phrasing.
 - No consumer-mobile-at-scale experience is claimed anywhere; product-led consumer
   companies (Bending Spoons, and others like it) will look for it. Nothing to invent —
   it's a portfolio job.
