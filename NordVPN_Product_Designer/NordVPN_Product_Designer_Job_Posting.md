@@ -55,6 +55,11 @@ delivering on it.
 
 ## Deliberately not claimed
 
+- **"Embedded" as a platform label** — an early draft of the profile described the Nacos
+  HMI work as "embedded interfaces". That word is not in `CV_source.md` and asserts
+  something about the delivery target that the source does not establish, so the profile
+  now uses the source's own term, *HMI*.
+
 - **Motion design** — listed as a plus in the posting, not present in `CV_source.md`.
   ProtoPie in the tools list is the closest existing signal; no motion-design skill was
   added. Ask Gabriela before adding one.
