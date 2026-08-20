@@ -65,6 +65,13 @@ applying!"
 | "English" | Languages block |
 | "business opportunities" / ownership | Nacos bullet 7, repeat business with the bolded proof |
 | "mobility"/consumer scale | Honours: the **8 weeks** 0-to-1 Android app leads |
+| "collaborative" + "design-led thinker" | Profile ("Design-led and collaborative") |
+| "leading discussions" | Profile ("lead the discussions that bring senior stakeholders along") |
+| "cross-functional teams" | Nacos bullet 6 ("led cross-functional co-creation workshops") |
+| "craftsmanship" | Profile ("I care about craft") |
+| "elevates overall design quality" | Profile ("design quality") + Cytiva bullet 4 ("keeping UI patterns and design quality consistent") |
+| "guiding other designers" | Education, AGH ("Led and guided the design team", **400+ attendees**) |
+| "Jira and Confluence" | Tools line |
 
 ## Gaps — what the CV cannot claim
 
@@ -74,12 +81,14 @@ applying!"
 2. **Acquisition funnels, conversion, retention.** Bolt asks for funnel optimisation. No funnel or
    conversion metric exists. `A/B testing & experimentation` is listed as a skill with no result
    attached. If a number exists, it belongs in Nacos bullet 2.
-3. **Mentoring designers.** The posting asks for it twice. Source has "maintained a design system
-   with other designers" and "coordinated the design team" for the AGH conference (**400+
-   attendees**), which is the only leadership-of-designers signal and sits in Education.
-4. **Seniority.** They ask for "extensive experience as a Senior Product Designer". Title on the CV
-   is UX Designer, five years. The posting explicitly invites applications that do not tick every
-   box.
+3. **Mentoring designers.** Partly covered: the AGH line now reads "Led and guided the design
+   team", and the Cytiva design-system bullet names other designers. The word *mentoring* itself
+   is still unclaimed, and so is anything at Nacos or Cytiva about developing another designer.
+   One sentence from the candidate (crits, reviews, onboarding a junior) turns this into a bullet.
+4. **Seniority.** They ask for "extensive experience as a Senior Product Designer". The role line
+   under the name says Product Designer and the job titles read UX Designer and UX/UI Designer.
+   "Senior" appears on the page only in "senior stakeholders". Changing the role line is the
+   candidate's call, not a tailoring decision.
 5. ~~Jira and Confluence.~~ Added to the Tools line at the candidate's confirmation.
 6. **Multi-region / multi-app.** "Across apps and regions" is close to the cross-country
    collaboration bullet but not the same thing; not claimed.
@@ -103,3 +112,13 @@ keyword text is designed to show one thing to the parser and another to the read
 and LLM screeners flag it, recruiters see it the moment they copy the text out of the PDF, and it
 gets applications rejected outright. The keyword coverage above is already in the visible text,
 and the `.md` file is the clean machine-readable version if a plain-text upload is ever needed.
+
+## Typography note
+
+Justified text can break a hyphenated word across lines, and Chromium writes that break as a
+character that text extractors read as U+FFFE (it showed up in "high-quality design"). Anything
+parsing the PDF sees a broken word. Reworded to "design quality"; check for it after every render:
+
+```python
+'\ufffe' in ' '.join(page.get_textpage().get_text_range().split())
+```

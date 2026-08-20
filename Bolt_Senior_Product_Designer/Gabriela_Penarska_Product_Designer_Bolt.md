@@ -11,7 +11,7 @@ linkedin.com/in/gabriela-penarska
 
 ## Profile
 
-Product Designer with **5 years** of experience owning products end-to-end, from ambiguous problem to shipped flow, across web, desktop and mobile. I work where usability meets hard constraints, technical, accessibility and platform, and my job is to turn them into experiences that are simple, consistent and scalable. I prototype and iterate fast, back decisions with user research and data, and present the reasoning to senior stakeholders in the language of product and engineering. I use AI tools daily to explore more directions in less time.
+Product Designer with **5 years** of experience owning products end-to-end, from ambiguous problem to shipped flow, across web, desktop and mobile. I work where usability meets hard constraints, technical, accessibility and platform, and turn them into experiences that are simple, consistent and scalable. Design-led and collaborative, I prototype and iterate fast, back decisions with user research and data, and lead the discussions that bring senior stakeholders along, in the language of product and engineering. I care about craft and design quality, and use AI tools daily to explore more directions in less time.
 
 ---
 
@@ -59,12 +59,12 @@ Product Designer with **5 years** of experience owning products end-to-end, from
 
 *Jan 2023 – Dec 2025 · Copenhagen*
 
-- Owned UI and UX end-to-end for new vessel monitoring products across web, desktop and HMI, turning complex technical requirements into flows that are simple, consistent and accessible under high pressure. Delivered to **13 000+ ships** globally, supporting **30k+ daily active users**.
+- Owned UI and UX end-to-end for new vessel monitoring products across web, desktop and HMI, turning complex technical requirements into flows that are simple, consistent and accessible. Delivered to **13 000+ ships** globally, supporting **30k+ daily active users**.
 - Cut time-to-task execution by **70%** by transforming high-volume data into high-impact dashboards and monitoring panels handling **70+ active data points** per single page.
-- Made a sprawling product consistent and scalable by restructuring the information architecture, cutting navigation depth from **4–5 levels of nested menus to 2** and consolidating **22 functions into 10**, which got operators off the manual for their core tasks.
+- Made a sprawling product consistent and scalable by restructuring the information architecture, cutting navigation depth from **4–5 levels of nested menus to 2** and consolidating **22 functions into 10**, which got operators off the manual.
 - Set the UI and UX pattern bar across legacy interfaces by evolving design systems and architecting user-centric (HCI) workflow improvements, which raised engineer productivity.
 - Prototyped and iterated concepts quickly, testing interaction decisions on real data before build, and grounded direction in discovery interviews and usability testing across enterprise and consumer products.
-- Influenced stakeholders at all levels by pitching design ideas with a balance of data-driven insight and design intuition, and facilitated co-creation workshops with product owners, engineers and researchers across countries that aligned everyone on direction.
+- Influenced stakeholders at all levels by pitching design ideas with a balance of data-driven insight and design intuition, and led cross-functional co-creation workshops with product owners, engineers and researchers across countries that aligned everyone.
 - Won repeat business, **a customer ordering a second interface after a successful release**, by designing novel end-to-end patterns for vessel navigation that held the brand identity, and presenting the work directly to major customers.
 
 ### UX/UI Designer | Cytiva
@@ -74,8 +74,8 @@ Product Designer with **5 years** of experience owning products end-to-end, from
 - Designed across web, desktop and mobile, cutting daily task-completion time by **30%** for **500+ employees** by leading the redesign of the internal hour-tracking system.
 - Designed, co-developed and delivered an end-to-end new desktop customer-ordering tool, moving between Figma and frontend code to get the best result.
 - Simplified equipment ordering for sourcing specialists by redesigning procurement data dashboards, informed by qualitative research run directly with users.
-- Maintained and extended a design system with other designers, keeping UI patterns consistent as the surface grew.
-- Partnered with business analysts, developers and project managers, co-designed the company's internal employee website and presented work to customers.
+- Maintained and extended a design system with other designers, keeping UI patterns and design quality consistent as the surface grew.
+- Partnered with business analysts, developers and project managers, co-designed the internal employee website and presented work to customers.
 
 ---
 
@@ -93,7 +93,7 @@ GPA **10.56/12**. Human-centered design, interaction design, data visualization,
 
 Software engineering, HCI, front-end development. Thesis: ticket platform redesign for **1000+ students**.
 
-Member of BEST AGH Krakow. Coordinated the design team for a Europe-wide conference of **400+ attendees** and grew local recruitment applicants by **15%**.
+Member of BEST AGH Krakow. Led and guided the design team for a Europe-wide conference of **400+ attendees** and grew local recruitment applicants by **15%**.
 
 ### Exchange student | University of Tokyo · NOVA University of Lisbon
 
