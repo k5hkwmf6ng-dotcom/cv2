@@ -23,6 +23,7 @@ application folder, re-order for the new posting and swap the accent colour — 
 
 | Folder | Accent | Notes |
 |---|---|---|
+| `Bolt_Senior_Product_Designer/` | `#32BB78` | Bolt Jungle Green. Senior Product Designer on identity and verification flows. Reordered around simple/consistent/scalable, fast prototyping, design systems and stakeholder influence; FigJam added to Tools. Gaps (identity/KYC, funnels, mentoring, Jira/Confluence) are listed in the folder's posting brief. |
 | `Bending_Spoons_Product_Designer/` | `#F06A6A` | WeTransfer/Bending Spoons. Their identity is black & white (Brandfetch) and a monochrome build was tried, but the candidate preferred the coral. Posting is AI-native (Cursor, Claude Code, "start with an LLM"); the profile names the AI tools without echoing the posting's wording. |
 
 Content carried forward from the `reference/` PDFs and **not** in `CV_source.md` (approved in
