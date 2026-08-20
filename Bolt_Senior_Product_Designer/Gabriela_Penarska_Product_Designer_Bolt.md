@@ -71,7 +71,7 @@ Product Designer with **5 years** of experience owning products end-to-end, from
 
 *May 2021 – Jan 2023 · Krakow*
 
-- Cut daily task-completion time by **30%** for **500+ employees** by leading the redesign of the internal hour-tracking system.
+- Designed across web, desktop and mobile, cutting daily task-completion time by **30%** for **500+ employees** by leading the redesign of the internal hour-tracking system.
 - Designed, co-developed and delivered an end-to-end new desktop customer-ordering tool, moving between Figma and frontend code to get the best result.
 - Simplified equipment ordering for sourcing specialists by redesigning procurement data dashboards, informed by qualitative research run directly with users.
 - Maintained and extended a design system with other designers, keeping UI patterns consistent as the surface grew.
