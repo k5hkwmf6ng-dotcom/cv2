@@ -80,8 +80,7 @@ applying!"
 4. **Seniority.** They ask for "extensive experience as a Senior Product Designer". Title on the CV
    is UX Designer, five years. The posting explicitly invites applications that do not tick every
    box.
-5. **Jira and Confluence.** Named in the posting, absent from the tool list. Add if she uses them,
-   which is likely.
+5. ~~Jira and Confluence.~~ Added to the Tools line at the candidate's confirmation.
 6. **Multi-region / multi-app.** "Across apps and regions" is close to the cross-country
    collaboration bullet but not the same thing; not claimed.
 
@@ -89,9 +88,18 @@ applying!"
 
 - **FigJam** added to Tools, next to Figma. Both are named in the posting; FigJam is a Figma
   surface, so this is a low-risk addition, but confirm.
+- **Jira and Confluence** added to Tools, confirmed by the candidate.
 - `Prototyping` became **`Prototyping & fast iteration`** to match "fast iterations and prototypes".
 
 ## Cover letter
 
 Not written for this application yet. The Bending Spoons letter in
 `../Bending_Spoons_Product_Designer/` is the closest starting point.
+
+## Not done: hidden keyword text
+
+A request to paste the full posting under the CV in 1pt white text was declined. Invisible
+keyword text is designed to show one thing to the parser and another to the reader; ATS vendors
+and LLM screeners flag it, recruiters see it the moment they copy the text out of the PDF, and it
+gets applications rejected outright. The keyword coverage above is already in the visible text,
+and the `.md` file is the clean machine-readable version if a plain-text upload is ever needed.

@@ -37,7 +37,7 @@ Product Designer with **5 years** of experience owning products end-to-end, from
 
 ### Tools
 
-- Figma, FigJam, ProtoPie, Framer, Miro, Notion, Adobe CC
+- Figma, FigJam, ProtoPie, Framer, Miro, Notion, Jira, Confluence, Adobe CC
 
 ### AI tools
 
